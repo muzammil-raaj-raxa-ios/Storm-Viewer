@@ -27,7 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		369DFC4E2BC3D13100B22439 /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		369DFC4E2BC3D13100B22439 /* Storm Viewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Storm Viewer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		369DFC512BC3D13100B22439 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		369DFC532BC3D13100B22439 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		369DFC552BC3D13100B22439 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		369DFC4F2BC3D13100B22439 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				369DFC4E2BC3D13100B22439 /* Project1.app */,
+				369DFC4E2BC3D13100B22439 /* Storm Viewer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -111,9 +111,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		369DFC4D2BC3D13100B22439 /* Project1 */ = {
+		369DFC4D2BC3D13100B22439 /* Storm Viewer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 369DFC622BC3D13300B22439 /* Build configuration list for PBXNativeTarget "Project1" */;
+			buildConfigurationList = 369DFC622BC3D13300B22439 /* Build configuration list for PBXNativeTarget "Storm Viewer" */;
 			buildPhases = (
 				369DFC4A2BC3D13100B22439 /* Sources */,
 				369DFC4B2BC3D13100B22439 /* Frameworks */,
@@ -123,9 +123,9 @@
 			);
 			dependencies = (
 			);
-			name = Project1;
+			name = "Storm Viewer";
 			productName = Project1;
-			productReference = 369DFC4E2BC3D13100B22439 /* Project1.app */;
+			productReference = 369DFC4E2BC3D13100B22439 /* Storm Viewer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -143,7 +143,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 369DFC492BC3D13100B22439 /* Build configuration list for PBXProject "Project1" */;
+			buildConfigurationList = 369DFC492BC3D13100B22439 /* Build configuration list for PBXProject "Storm Viewer" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -156,7 +156,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				369DFC4D2BC3D13100B22439 /* Project1 */,
+				369DFC4D2BC3D13100B22439 /* Storm Viewer */,
 			);
 		};
 /* End PBXProject section */
@@ -398,7 +398,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		369DFC492BC3D13100B22439 /* Build configuration list for PBXProject "Project1" */ = {
+		369DFC492BC3D13100B22439 /* Build configuration list for PBXProject "Storm Viewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				369DFC602BC3D13300B22439 /* Debug */,
@@ -407,7 +407,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		369DFC622BC3D13300B22439 /* Build configuration list for PBXNativeTarget "Project1" */ = {
+		369DFC622BC3D13300B22439 /* Build configuration list for PBXNativeTarget "Storm Viewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				369DFC632BC3D13300B22439 /* Debug */,
